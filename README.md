@@ -1,2 +1,2 @@
 # Bank-System-project-
-A bank system,  created using c++.
+A bank system project,  created using c++.
