@@ -50,7 +50,7 @@ void ShowAllAccounts();
 };
 int main()
 {
-//declaration of datatypes
+//declaration of variables with different datatypes
 Bank b;
 Cl_Accounts acc;
 int option;
